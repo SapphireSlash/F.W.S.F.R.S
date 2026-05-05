@@ -15,5 +15,18 @@ assignees: ''
 **Rating**
 (Rating)
 
-**Remove this line and the one below**
+**Remove this line and the ones below**
+
+Ratings:
+
+N - None
+NL - None-Low
+L - Low
+LM - Low-Medium
+M - Medium
+MH - Medium-High
+H - High
+HX - High-Extreme
+X - Extreme
+
 By submitting an issue you give me the authority to change the rating of the website you requested.
