@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 **Font Website Name and URL**
+(Note: Font Website should be 100% free. Remove this line.)
 (Font Website Name)
 (URL)
 
