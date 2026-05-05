@@ -19,5 +19,18 @@ assignees: ''
 **Reasoning**
 (Reasoning)
 
-**Remove this line and the one below**
+**Remove this line and the one below:**
+
+Ratings:
+
+N - None
+NL - None-Low
+L - Low
+LM - Low-Medium
+M - Medium
+MH - Medium-High
+H - High
+HX - High-Extreme
+X - Extreme
+
 By submitting an issue you give me the authority to change the rating of your website. Also, I might reject your request.
