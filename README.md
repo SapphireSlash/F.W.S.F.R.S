@@ -8,7 +8,7 @@ The goal of this system making it easier which websites should you use.
 
 F.W.S.F.S Page: https://sapphireslash.neocities.org/fwsfs
 
-Note: the CC-BY-ND license only applies to the images.
+**Note: the CC-BY-ND license only applies to the images.**
 
 ---
 
