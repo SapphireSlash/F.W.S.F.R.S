@@ -6,7 +6,7 @@ The goal of this system making it easier which websites should you use.
 
 **VERY IMPORTANT:** I will only allow font websites that are 100% free because it gets confusing when you add paid websites (especially half paid, half free font websites).
 
-**Note: the CC-BY-ND license only applies to the images. Everything else is licensed under the CC-BY-SA license.**
+**Note: the SapphireSlash No Derivatives License only applies to the images. Everything else is licensed under the SapphireSlash License.**
 
 F.W.S.F.S Page: https://sapphireslash.neocities.org/fwsfs
 
