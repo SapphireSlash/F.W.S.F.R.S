@@ -45,8 +45,7 @@ Section 1 -- Definitions.
      that applies to Your use of the Licensed Material.
 
   f. License Elements means the license attributes listed in the name
-     of a Creative Commons Public License. The License Elements of this
-     Public License are Attribution and ShareAlike.
+     of a SapphireSlash License.
 
   g. Licensed Material means the artistic or literary work, database,
      or other material to which the Licensor applied this Public
