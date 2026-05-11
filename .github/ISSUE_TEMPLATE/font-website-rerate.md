@@ -7,8 +7,9 @@ assignees: ''
 
 ---
 
-**Font Website Name**
+**Font Website Name and/or URL**
 (Font Website Name)
+(URL)
 
 **Old Rating**
 (Old Rating)
