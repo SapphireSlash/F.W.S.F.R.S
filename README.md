@@ -1,6 +1,6 @@
-# F.W.S.F.S
+# F.W.S.F.R.S
 
-A repository for the Font Website Stolen Fonts System.
+A repository for the Font Website Stolen Fonts Rating System.
 
 The goal of this system making it easier which websites should you use.
 
@@ -8,7 +8,7 @@ The goal of this system making it easier which websites should you use.
 
 **Note: the SapphireSlash No Derivatives License only applies to the images. Everything else is licensed under the SapphireSlash License.**
 
-F.W.S.F.S Page: https://sapphireslash.neocities.org/fwsfs
+F.W.S.F.R.S Page: https://sapphireslash.neocities.org/fwsfrs
 
 ---
 
