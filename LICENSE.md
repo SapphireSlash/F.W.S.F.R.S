@@ -1,7 +1,7 @@
-SapphireSlash License 1.0
+SapphireSlash Non-Software License 1.0
 
 By exercising the Licensed Rights (defined below), You accept and agree
-to be bound by the terms and conditions of this SapphireSlash License ("Public
+to be bound by the terms and conditions of this SapphireSlash Non-Software License ("Public
 License"). To the extent this Public License may be interpreted as a
 contract, You are granted the Licensed Rights in consideration of Your
 acceptance of these terms and conditions, and the Licensor grants You
