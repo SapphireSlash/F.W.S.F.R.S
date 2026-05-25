@@ -82,6 +82,8 @@ Helvetica Neue
 
 Helvetica Now
 
+Helvetica World
+
 Humanist 521
 
 Humanist 531
