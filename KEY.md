@@ -1,5 +1,5 @@
 # Key
-If you are gonna contribute, look out for these things.
+If you are gonna contribute, look out for these names/brands.
 
 ## Font Names
 Adobe Caslon
