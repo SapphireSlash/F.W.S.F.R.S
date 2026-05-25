@@ -2,6 +2,10 @@
 If you are gonna contribute, test if these appear.
 
 ## Font Names
+Akzidenz-Grotesk
+
+Akzidenz-Grotesk Next
+
 Arial
 
 Arial Nova
@@ -16,6 +20,8 @@ Bauer Bodoni
 
 Baskerville
 
+Berthold Garamond
+
 Bodoni
 
 Bodoni PT
@@ -27,6 +33,8 @@ Century
 Century Schoolbook
 
 Cooper
+
+Cooper BT
 
 Courier
 
@@ -77,6 +85,12 @@ Neue Haas Grotesk
 Neue Haas Unica
 
 Palatino
+
+Pragmatica
+
+Pragmatica Next
+
+Stempel Garamond
 
 Swiss 721
 
