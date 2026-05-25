@@ -52,6 +52,8 @@ Didot
 
 DIN 2014
 
+DIN Condensed
+
 DIN Next
 
 Engravers Gothic
@@ -63,6 +65,10 @@ Futura Now
 Garamond
 
 Garamond Nova
+
+Georgia
+
+Georgia Pro
 
 Gill Sans
 
