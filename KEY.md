@@ -24,6 +24,8 @@ Bauer Bodoni
 
 Baskerville
 
+Baskerville Display PT
+
 Berthold Garamond
 
 Bodoni
@@ -81,6 +83,8 @@ ITC Bodoni
 ITC Caslon
 
 ITC Garamond
+
+Linotype Didot
 
 Monotype Engravers
 
