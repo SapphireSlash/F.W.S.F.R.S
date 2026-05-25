@@ -4,13 +4,21 @@ If you are gonna contribute, test if these appear.
 ## Font Names
 Arial
 
+Arial Nova
+
 Avenir
 
 Avenir Next
 
+Bank Gothic
+
+Bauer Bodoni
+
 Baskerville
 
 Bodoni
+
+Bodoni PT
 
 Caslon
 
@@ -24,17 +32,23 @@ Courier
 
 Courier New
 
+Courier PT
+
 Didot
 
 DIN 2014
 
 DIN Next
 
+Engravers Gothic
+
 Futura
 
 Futura Now
 
 Garamond
+
+Garamond Nova
 
 Gill Sans
 
@@ -49,6 +63,12 @@ Helvetica Now
 Humanist 521
 
 Humanist 531
+
+ITC Garamond
+
+ITC Bodoni
+
+Monotype Engravers
 
 Monotype Grotesque
 
