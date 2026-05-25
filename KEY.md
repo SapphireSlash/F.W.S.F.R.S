@@ -96,6 +96,10 @@ Neue Haas Unica
 
 Palatino
 
+Palatino Linotype
+
+Palatino Nova
+
 Pragmatica
 
 Pragmatica Next
