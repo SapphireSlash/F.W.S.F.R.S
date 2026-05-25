@@ -76,9 +76,11 @@ Humanist 521
 
 Humanist 531
 
-ITC Garamond
-
 ITC Bodoni
+
+ITC Caslon
+
+ITC Garamond
 
 Monotype Engravers
 
