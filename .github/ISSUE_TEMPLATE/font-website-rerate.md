@@ -1,7 +1,7 @@
 ---
 name: Font Website Rerate
 about: Change the rating of a font website.
-title: Rerate (Font Website Name)
+title: Rerate (Font Website Name or URL)
 labels: Font Website Rerate
 assignees: ''
 
@@ -20,7 +20,8 @@ assignees: ''
 **Reasoning**
 (Reasoning)
 
-**Remove this line and the one below:**
+**Remove this line and the ones below:**
+Note: read the code of conduct before submitting.
 
 Ratings:
 
