@@ -26,6 +26,10 @@ Courier New
 
 Didot
 
+DIN 2014
+
+DIN Next
+
 Futura
 
 Futura Now
