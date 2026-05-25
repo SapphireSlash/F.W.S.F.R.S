@@ -63,3 +63,10 @@ Swiss 721
 Times
 
 Times New Roman
+
+# Brands
+LT/Linotype
+
+MT/Monotype
+
+PT/Paratype
