@@ -2,6 +2,10 @@
 If you are gonna contribute, test if these appear.
 
 ## Font Names
+Adobe Caslon
+
+Adobe Garamond
+
 Akzidenz-Grotesk
 
 Akzidenz-Grotesk Next
