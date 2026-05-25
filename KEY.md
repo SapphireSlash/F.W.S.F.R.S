@@ -74,6 +74,8 @@ Georgia Pro
 
 Gill Sans
 
+Gill Sans Nova
+
 Gotham
 
 Helvetica
