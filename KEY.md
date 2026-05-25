@@ -64,7 +64,7 @@ Times
 
 Times New Roman
 
-# Brands
+## Brands
 BT/Bitstream
 
 ITC
