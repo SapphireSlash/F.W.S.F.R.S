@@ -1,5 +1,5 @@
 # Key
-If you are gonna contribute, look out for these.
+If you are gonna contribute, look out for these things.
 
 ## Font Names
 Adobe Caslon
@@ -66,6 +66,8 @@ Garamond
 
 Garamond Nova
 
+Georgia
+
 Georgia Pro
 
 Gill Sans
@@ -115,6 +117,8 @@ Swiss 721
 Times
 
 Times New Roman
+
+Verdana
 
 Verdana Pro
 
