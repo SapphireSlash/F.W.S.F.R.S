@@ -65,8 +65,14 @@ Times
 Times New Roman
 
 # Brands
+BT/Bitstream
+
+ITC
+
 LT/Linotype
 
 MT/Monotype
 
 PT/Paratype
+
+TT/TypeType
