@@ -1,5 +1,5 @@
 # Key
-If you are gonna contribute, test if these appear.
+If you are gonna contribute, look out for these.
 
 ## Font Names
 Adobe Caslon
@@ -66,8 +66,6 @@ Garamond
 
 Garamond Nova
 
-Georgia
-
 Georgia Pro
 
 Gill Sans
@@ -117,6 +115,8 @@ Swiss 721
 Times
 
 Times New Roman
+
+Verdana Pro
 
 ## Brands
 BT/Bitstream
