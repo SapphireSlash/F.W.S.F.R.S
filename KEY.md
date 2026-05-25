@@ -28,6 +28,8 @@ Didot
 
 Futura
 
+Futura Now
+
 Garamond
 
 Gill Sans
