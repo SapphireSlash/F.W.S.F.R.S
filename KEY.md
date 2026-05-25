@@ -44,6 +44,8 @@ Helvetica Now
 
 Humanist 521
 
+Humanist 531
+
 Monotype Grotesque
 
 Neue Haas Grotesk
@@ -51,6 +53,8 @@ Neue Haas Grotesk
 Neue Haas Unica
 
 Palatino
+
+Swiss 721
 
 Times
 
