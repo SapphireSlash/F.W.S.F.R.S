@@ -6,7 +6,7 @@ The goal of this system making it easier which websites should you use.
 
 **VERY IMPORTANT:** I will only allow font websites that are 100% free because it gets confusing when you add paid websites (especially half paid, half free font websites).
 
-[F.W.S.F.R.S Page](https://sapphireslash.nekoweb.org/fwsfrs)
+[F.W.S.F.R.S Website Page](https://sapphireslash.nekoweb.org/fwsfrs)
 
 ---
 
