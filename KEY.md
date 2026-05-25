@@ -32,6 +32,8 @@ Bodoni
 
 Bodoni PT
 
+Calibri
+
 Caslon
 
 Century
@@ -114,9 +116,13 @@ Stempel Garamond
 
 Swiss 721
 
+Tahoma
+
 Times
 
 Times New Roman
+
+Trebuchet MS
 
 Verdana
 
