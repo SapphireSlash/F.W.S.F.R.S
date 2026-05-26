@@ -8,8 +8,6 @@ The goal of this system making it easier which websites should you use.
 
 [F.W.S.F.R.S Website Page](https://sapphireslash.nekoweb.org/fwsfrs)
 
----
-
 ## (Important) To contribute
 
 If you want to contribute, you can do so freely on the issues page. When you suggest the rerating of a website, I might reject your request, and even if I do accept your request, there's a chance that later I or another person could change it to something else.
@@ -17,8 +15,6 @@ If you want to contribute, you can do so freely on the issues page. When you sug
 **(Important)** Google Doc URL (for font website list): https://docs.google.com/document/d/1-OPajsez5E4zHBD5huKF5vWYFmv5lmunjjTw7gKDO-o/edit?usp=sharing
 
 Canva Project URL (for charts): https://canva.link/knyx8datj3cvjun
-
----
 
 ## Ratings
 
@@ -41,8 +37,6 @@ H - High
 HX - High-Extreme
 
 X - Extreme
-
----
 
 ## Why does this exist?
 
