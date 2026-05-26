@@ -20,15 +20,15 @@ Canva Project URL (for charts): https://canva.link/knyx8datj3cvjun
 
 There are 5 base ratings with 4 in between. These are:
 
-*N - None
-*NL - None-Low
-*L - Low
-*LM - Low-Medium
-*M - Medium
-*MH - Medium-High
-*H - High
-*HX - High-Extreme
-*X - Extreme
+* N - None
+* NL - None-Low
+* L - Low
+* LM - Low-Medium
+* M - Medium
+* MH - Medium-High
+* H - High
+* HX - High-Extreme
+* X - Extreme
 
 ## Why does this exist?
 
