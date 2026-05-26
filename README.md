@@ -44,6 +44,6 @@ X - Extreme
 
 ---
 
-## How this came to be
+## Why does this exist?
 
-I've always saw those websites that host pirated paid fonts like Helvetica or Futura. Then around early to mid March of 2026, I was thinking of a rating system for websites in the style of rating systems like the E.S.R.B or movie ratings, and by late March of that year, I had made a Canva presentation and older than that a text file and on April 8, 2026, I made this repository.
+To that I say, that's a bit of a long story, but I'll show why. Basically, I've always seen those websites that host pirated paid fonts like Helvetica, Futura, Gill Sans etc. (*you get the gist*) and I'm sure you have heard and/or seen websites like Cufon Fonts, Fontsgeek, Free Font Download etc. that host paid fonts for free. And I have admit, I have **downloaded** fonts from them although to be fair I didn't know any better so, I ended up making this project so you don't do the same mistake as me.
