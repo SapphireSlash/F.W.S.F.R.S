@@ -14,7 +14,7 @@ If you want to contribute, you can do so freely on the issues page. When you sug
 
 **(Important!)** [F.W.S.F.R.S Google Doc (For Website List)](https://docs.google.com/document/d/1-OPajsez5E4zHBD5huKF5vWYFmv5lmunjjTw7gKDO-o/edit?usp=sharing)
 
-[Canva Project URL (For Charts)](https://canva.link/knyx8datj3cvjun)
+[Canva Project (For Charts)](https://canva.link/knyx8datj3cvjun)
 
 ## Ratings
 
