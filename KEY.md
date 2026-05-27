@@ -21,7 +21,6 @@ If you are gonna contribute, look out for these names/brands.
 * Caslon
 * Century
 * Century Schoolbook
-* Cooper
 * Cooper BT
 * Courier
 * Courier New
