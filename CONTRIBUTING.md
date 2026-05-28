@@ -1,4 +1,4 @@
-## To contribute
+# Contributing
 
 If you want to contribute, you can do so freely on the issues page. When you suggest the rerating of a website, I might reject your request, and even if I do accept your request, there's a chance that later I or another person could change it to something else.
 
