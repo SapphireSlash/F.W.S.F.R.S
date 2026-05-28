@@ -3,4 +3,4 @@
 * Be respectful to other people.
 * Accept constructive criticism.
 * Do not be disrespectful.
-* Do not have inappropiate behavior
+* Do not have inappropiate behavior.
