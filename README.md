@@ -35,4 +35,4 @@ There are 5 base ratings with 4 in between. These are:
 
 ## Why does this exist?
 
-To that I say, that's a bit of a long story, but I'll show why. Basically, I've always seen those websites that host pirated paid fonts like Helvetica, Futura, Gill Sans etc. (*you get the gist*) and I'm sure you have heard and/or seen websites like Cufon Fonts, Fontsgeek, Free Font Download etc. that host paid fonts for free. And I have admit, I have **downloaded** fonts from them although to be fair I didn't know any better so, I ended up making this project so you don't do the same mistake as me.
+To that I say, that's a bit of a long story, but I'll show why. Basically, I've always seen those websites that host pirated paid fonts like Helvetica, Futura, Gill Sans etc. *(you get the gist)* and I'm sure you have heard and/or seen websites like Cufon Fonts, Fontsgeek, Free Font Download etc. that host paid fonts for free. And I have admit, I have **downloaded** fonts from them although to be fair I didn't know any better so, I ended up making this project so you don't do the same mistake as me.
