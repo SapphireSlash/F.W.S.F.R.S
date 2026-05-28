@@ -1,6 +1,6 @@
 ---
 name: Inaccurate Stats
-about: Change stats of number of websites
+about: Change stats of the number of websites.
 title: Change Website Stats to (Number)
 labels: Inaccurate Stats
 assignees: ''
