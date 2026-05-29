@@ -34,6 +34,8 @@ There are 5 base ratings with 4 in between. These are:
 * X - Extreme
 
 ![All Rating SVGs](https://github.com/SapphireSlash/F.W.S.F.R.S/blob/main/Rating%20SVGs/F.W.S.F.R.S%20Ratings.svg)
+Here's a SVG of the 5 base ratings.
+
 
 ## Why does this exist?
 
