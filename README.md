@@ -10,7 +10,7 @@ The goal of this system making it easier which websites should you use.
 
 ## (Important) To contribute
 
-Before contributing, you have to read the [contributing rules.](https://github.com/SapphireSlash/F.W.S.F.R.S/blob/main/CONTRIBUTING.md)
+Before contributing, you have to read the [contributing rules](https://github.com/SapphireSlash/F.W.S.F.R.S/blob/main/CONTRIBUTING.md).
 
 If you want to contribute, you can do so on the issues page.
 When you suggest the rerating of a website, I might reject your request, and even if I do accept your request, there's a chance that later I or another person could change it to something else.
@@ -32,6 +32,10 @@ There are 5 base ratings with 4 in between. These are:
 * H - High
 * HX - High-Extreme
 * X - Extreme
+
+![All Rating SVGs](https://github.com/SapphireSlash/F.W.S.F.R.S/blob/main/Rating%20SVGs/F.W.S.F.R.S%20Ratings.svg)
+Here's a SVG of the 5 base ratings.
+
 
 ## Why does this exist?
 
