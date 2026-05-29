@@ -1,3 +1,1 @@
-**Why:**
-
-**What's being changed (optionally, include any code snippets, screenshots, or gifs):**
+**What's being changed (optionally, include any code snippets, screenshots, or gifs)**
