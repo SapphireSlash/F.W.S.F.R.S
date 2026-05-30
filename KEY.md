@@ -67,6 +67,8 @@ If you are gonna contribute, look out for these names/brands.
 * Verdana
 * Verdana Pro
 
+Note: some fonts listed have free alternatives which are free fonts, like Libre Bodoni, Libre Caslon, Garamond Libre etc. Also some fonts listed have free alternatives which have different names, like Nimbus Sans L being a free alternative to Helvetica, Nimbus Mono L being a free alternative to Courier New etc.
+
 ## Brands
 * BT/Bitstream
 * FF/FontFont
