@@ -4,3 +4,4 @@
 # Don't make Git track license files
 *LICENSE
 *LICENSE_IMAGE
+*LICENSE_NOTICE
