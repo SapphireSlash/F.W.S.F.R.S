@@ -7,3 +7,6 @@
 *LICENSE_NOTICE
 Rating SVGs/
 *.txt
+*.md
+# But do track these files
+!README.md
