@@ -1,7 +1,9 @@
 # Don't make Git track temporary/work in progress files
 *~
 
-# Don't make Git track license files
+# Don't make Git track these files
 *LICENSE
 *LICENSE_IMAGE
 *LICENSE_NOTICE
+*.gitattributes
+*.gitignore
