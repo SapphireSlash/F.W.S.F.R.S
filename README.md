@@ -20,7 +20,7 @@ If you want to contribute, you can do so on the issues page.
 
 **(Important!)** [F.W.S.F.R.S Google Doc (For Website List)](https://docs.google.com/document/d/1-OPajsez5E4zHBD5huKF5vWYFmv5lmunjjTw7gKDO-o/edit?usp=sharing)
 
-[Canva Project (For Charts)](https://canva.link/knyx8datj3cvjun)
+[F.W.S.F.R.S Charts Page]([https://canva.link/knyx8datj3cvjun](https://sapphireslash.nekoweb.org/fwsfrs/charts))
 
 ## Ratings
 
