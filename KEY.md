@@ -43,7 +43,7 @@ If you are gonna contribute, look out for these names/brands.
 * __Gotham__
 * __Helvetica__
 * __Helvetica Neue__
-* __Helvetica Now__
+* Helvetica Now
 * Helvetica World
 * Humanist 521
 * Humanist 531
