@@ -24,7 +24,6 @@ If you are gonna contribute, look out for these names/brands.
 * Century
 * __Century Schoolbook__
 * Cooper BT
-* Courier
 * __Courier New__
 * Courier PT
 * __Didot__
