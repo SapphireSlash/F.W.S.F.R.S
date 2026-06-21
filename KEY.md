@@ -27,7 +27,7 @@ If you are gonna contribute, look out for these names/brands.
 * __Courier New__
 * Courier PT
 * __Didot__
-* __DIN 2014__
+* DIN 2014
 * DIN Condensed
 * DIN Next
 * Engravers Gothic
