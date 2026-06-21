@@ -40,10 +40,10 @@ If you are gonna contribute, look out for these names/brands.
 * Georgia Pro
 * __Gill Sans__
 * Gill Sans Nova
-* Gotham
+* __Gotham__
 * __Helvetica__
 * __Helvetica Neue__
-* Helvetica Now
+* __Helvetica Now__
 * Helvetica World
 * Humanist 521
 * Humanist 531
@@ -52,21 +52,21 @@ If you are gonna contribute, look out for these names/brands.
 * ITC Garamond
 * Linotype Didot
 * Monotype Engravers
-* Monotype Grotesque
-* Neue Haas Grotesk
+* __Monotype Grotesque__
+* __Neue Haas Grotesk__
 * Neue Haas Unica
-* Palatino
+* __Palatino__
 * Palatino Linotype
 * Palatino Nova
 * Pragmatica
 * Pragmatica Next
 * Stempel Garamond
 * Swiss 721
-* Tahoma
-* Times
-* Times New Roman
-* Trebuchet MS
-* Verdana
+* __Tahoma__
+* __Times__
+* __Times New Roman__
+* __Trebuchet MS__
+* __Verdana__
 * Verdana Pro
 
 > [!NOTE]
