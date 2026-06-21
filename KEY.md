@@ -1,46 +1,48 @@
 # Key
 If you are gonna contribute, look out for these names/brands.
 
+Bold: Important
+
 ## Font Names
 * Adobe Caslon
 * Adobe Garamond
-* Akzidenz-Grotesk
+* __Akzidenz-Grotesk__
 * Akzidenz-Grotesk Next
-* Arial
+* __Arial__
 * Arial Nova
-* Avenir
+* __Avenir__
 * Avenir Next
-* Bank Gothic
+* __Bank Gothic__
 * Bauer Bodoni
-* Baskerville
+* __Baskerville__
 * Baskerville Display PT
 * Berthold Garamond
-* Bodoni
+* __Bodoni__
 * Bodoni PT
-* Calibri
-* Caslon
+* __Calibri__
+* __Caslon__
 * Century
-* Century Schoolbook
+* __Century Schoolbook__
 * Cooper BT
 * Courier
-* Courier New
+* __Courier New__
 * Courier PT
-* Didot
-* DIN 2014
+* __Didot__
+* __DIN 2014__
 * DIN Condensed
 * DIN Next
 * Engravers Gothic
-* Futura
+* __Futura__
 * Futura Now
-* Garamond
+* __Garamond__
 * Garamond Nova
-* Georgia
+* __Georgia__
 * Georgia Pro
-* Gill Sans
+* __Gill Sans__
 * Gill Sans Nova
 * Gotham
-* Helvetica
-* Helvetica Neue
+* __Helvetica__
+* __Helvetica Neue__
 * Helvetica Now
 * Helvetica World
 * Humanist 521
