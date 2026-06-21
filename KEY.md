@@ -1,7 +1,7 @@
 # Key
 If you are gonna contribute, look out for these names/brands.
 
-Bold: Important
+**Bold: Important.**
 
 ## Font Names
 * Adobe Caslon
