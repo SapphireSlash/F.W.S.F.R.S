@@ -31,6 +31,7 @@ If you are gonna contribute, look out for these names/brands.
 * DIN Condensed
 * DIN Next
 * Engravers Gothic
+* __Frutiger__
 * __Futura__
 * Futura Now
 * __Garamond__
@@ -65,6 +66,7 @@ If you are gonna contribute, look out for these names/brands.
 * __Times__
 * __Times New Roman__
 * __Trebuchet MS__
+* __Univers__
 * __Verdana__
 * Verdana Pro
 
