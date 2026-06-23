@@ -67,7 +67,9 @@ If you are gonna contribute, look out for these names/brands.
 * __Monotype Grotesque__
 * __Neue Haas Grotesk__
 * Neue Haas Unica
+* Nimbus Sans
 * __Optima__
+* Optima Pro
 * Original Garamond
 * __Palatino__
 * Palatino Linotype
