@@ -35,7 +35,7 @@ If you are gonna contribute, look out for these names/brands.
 * __Frutiger__
 * __Futura__
 * Futura LT
-* Futura BT
+* Futura URW
 * Futura PT
 * Futura Now
 * __Garamond__
