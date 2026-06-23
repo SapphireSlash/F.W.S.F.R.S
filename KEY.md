@@ -18,6 +18,7 @@ If you are gonna contribute, look out for these names/brands.
 * Baskerville Display PT
 * Berthold Garamond
 * __Bodoni__
+* Bodoni MY
 * Bodoni PT
 * __Calibri__
 * __Caslon__
@@ -33,6 +34,9 @@ If you are gonna contribute, look out for these names/brands.
 * Engravers Gothic
 * __Frutiger__
 * __Futura__
+* Futura LT
+* Futura BT
+* Futura PT
 * Futura Now
 * __Garamond__
 * Garamond Nova
@@ -55,16 +59,20 @@ If you are gonna contribute, look out for these names/brands.
 * __Monotype Grotesque__
 * __Neue Haas Grotesk__
 * Neue Haas Unica
+* __Optima__
 * __Palatino__
 * Palatino Linotype
 * Palatino Nova
 * Pragmatica
 * Pragmatica Next
+* __Sabon__
+* Sabon Next
 * Stempel Garamond
 * Swiss 721
 * __Tahoma__
 * __Times__
 * __Times New Roman__
+* Trade Gothic
 * __Trebuchet MS__
 * __Univers__
 * __Verdana__
