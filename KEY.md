@@ -9,6 +9,7 @@ If you are gonna contribute, look out for these names/brands.
 * __Akzidenz-Grotesk__
 * Akzidenz-Grotesk Next
 * __Arial__
+* Arial MT
 * Arial Nova
 * __Avenir__
 * Avenir Next
@@ -48,10 +49,12 @@ If you are gonna contribute, look out for these names/brands.
 * __Georgia__
 * Georgia Pro
 * __Gill Sans__
+* Gill Sans MT
 * Gill Sans Nova
 * __Gotham__
 * __Helvetica__
-* __Helvetica Neue__
+* Helvetica LT
+* Helvetica Neue
 * Helvetica Now
 * Helvetica World
 * Humanist 521
