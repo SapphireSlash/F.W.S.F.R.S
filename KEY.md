@@ -18,7 +18,7 @@ If you are gonna contribute, look out for these names/brands.
 * Baskerville Display PT
 * Berthold Garamond
 * __Bodoni__
-* Bodoni MY
+* Bodoni MT
 * Bodoni PT
 * __Calibri__
 * __Caslon__
