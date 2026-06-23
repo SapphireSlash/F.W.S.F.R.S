@@ -5,7 +5,7 @@ A repository for the Font Website Stolen Fonts Rating System.
 The goal of this system making it easier which websites should you use.
 
 > [!IMPORTANT]
-> I will only allow websites that are 100% free because it gets confusing when you add paid websites (especially half paid, half free websites).
+> I will only allow either 100% free websites or mostly free websites because it gets confusing when you add paid websites.
 
 [F.W.S.F.R.S Website Page](https://sapphireslash.nekoweb.org/fwsfrs)
 
