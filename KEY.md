@@ -67,7 +67,8 @@ If you are gonna contribute, look out for these names/brands.
 * __Monotype Grotesque__
 * __Neue Haas Grotesk__
 * Neue Haas Unica
-* Nimbus Sans
+* Nimbus Sans ([non-L version](https://www.myfonts.com/collections/nimbus-sans-font-urw?queryId=f8e5b4ea0155b7ca0cebfce2530e9881&eventName=Product%20Clicked&index=universal_search_data&objectIDs=8652001001&positions=4&inline=true&userquery=nimbus))
+* Nimbus Sans L ([paid version](https://www.myfonts.com/collections/nimbus-sans-l-font-urw?queryId=350a41eb8edba423b523fa731465cfb9&eventName=Product%20Clicked&index=universal_search_data&objectIDs=8652660001&positions=1&inline=true&userquery=nimbus))
 * __Optima__
 * Optima Nova
 * Original Garamond
