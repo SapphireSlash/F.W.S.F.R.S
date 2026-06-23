@@ -76,6 +76,7 @@ If you are gonna contribute, look out for these names/brands.
 * Trade Gothic
 * __Trebuchet MS__
 * __Univers__
+* URW Garamond
 * __Verdana__
 * Verdana Pro
 
