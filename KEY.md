@@ -34,10 +34,11 @@ If you are gonna contribute, look out for these names/brands.
 * Engravers Gothic
 * __Frutiger__
 * __Futura__
-* Futura LT
-* Futura URW
-* Futura PT
+* Futura BT
 * Futura Now
+* Futura LT
+* Futura PT
+* Futura URW
 * __Garamond__
 * Garamond Nova
 * __Georgia__
