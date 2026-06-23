@@ -59,7 +59,7 @@ If you are gonna contribute, look out for these names/brands.
 * Helvetica World
 * Humanist 521
 * Humanist 531
-* ITC Bodoni
+* ITC Bodoni 72
 * ITC Caslon
 * ITC Garamond
 * Linotype Didot
