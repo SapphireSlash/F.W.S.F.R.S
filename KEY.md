@@ -29,6 +29,7 @@ If you are gonna contribute, look out for these names/brands.
 * __Century Schoolbook__
 * Classical Garamond
 * Cooper BT
+* Copperplate
 * __Courier New__
 * Courier PT
 * __Didot__
