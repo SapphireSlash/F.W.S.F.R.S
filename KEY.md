@@ -19,11 +19,13 @@ If you are gonna contribute, look out for these names/brands.
 * Berthold Garamond
 * __Bodoni__
 * Bodoni MT
+* Bodoni LT
 * Bodoni PT
 * __Calibri__
 * __Caslon__
 * Century
 * __Century Schoolbook__
+* Classical Garamond
 * Cooper BT
 * __Courier New__
 * Courier PT
@@ -40,7 +42,9 @@ If you are gonna contribute, look out for these names/brands.
 * Futura PT
 * Futura URW
 * __Garamond__
+* Garamond Antiqua Pro
 * Garamond Nova
+* Garamond Premier
 * __Georgia__
 * Georgia Pro
 * __Gill Sans__
@@ -61,6 +65,7 @@ If you are gonna contribute, look out for these names/brands.
 * __Neue Haas Grotesk__
 * Neue Haas Unica
 * __Optima__
+* Original Garamond
 * __Palatino__
 * Palatino Linotype
 * Palatino Nova
