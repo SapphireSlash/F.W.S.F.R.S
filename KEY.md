@@ -25,6 +25,7 @@ If you are gonna contribute, look out for these names/brands.
 * __Calibri__
 * __Caslon__
 * Century
+* __Century Gothic__
 * __Century Schoolbook__
 * Classical Garamond
 * Cooper BT
