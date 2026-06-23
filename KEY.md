@@ -69,7 +69,7 @@ If you are gonna contribute, look out for these names/brands.
 * Neue Haas Unica
 * Nimbus Sans
 * __Optima__
-* Optima Pro
+* Optima Nova
 * Original Garamond
 * __Palatino__
 * Palatino Linotype
@@ -89,6 +89,8 @@ If you are gonna contribute, look out for these names/brands.
 * URW Garamond
 * __Verdana__
 * Verdana Pro
+* __Wingdings__
+* Webdings
 
 > [!NOTE]
 > Some fonts listed have free alternatives which are free fonts, like Libre Bodoni, Libre Caslon, Garamond Libre etc. Also some fonts listed have free alternatives which have different names, like Nimbus Sans L being a free alternative to Helvetica, Nimbus Mono L being a free alternative to Courier New etc.
