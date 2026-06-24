@@ -24,20 +24,16 @@ If you want to contribute, you can do so on the issues page.
 
 ## Ratings
 
-There are 5 base ratings with 4 in between. These are:
+There are 5 ratings. These are:
 
 * N - None
-* NL - None-Low
 * L - Low
-* LM - Low-Medium
 * M - Medium
-* MH - Medium-High
 * H - High
-* HX - High-Extreme
 * X - Extreme
 
 ![All Rating SVGs](https://github.com/SapphireSlash/F.W.S.F.R.S/blob/main/Rating%20SVGs/F.W.S.F.R.S%20Ratings.svg)
-Here's a SVG of the 5 base ratings.
+Here's a SVG of the 5 ratings.
 
 ## Why does this exist?
 
