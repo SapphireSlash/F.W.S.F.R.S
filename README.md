@@ -34,7 +34,7 @@ There are 5 ratings. These are:
 
 ![All Rating SVGs](https://github.com/SapphireSlash/F.W.S.F.R.S/blob/main/Rating%20SVGs/F.W.S.F.R.S%20Ratings.svg)
 
-<img src="F.W.S.F.R.S Ratings.svg" width="33%"/>
+<img src="https://github.com/SapphireSlash/F.W.S.F.R.S/blob/main/Rating%20SVGs/F.W.S.F.R.S%20Ratings.svg" width="33%"/>
 
 Here's a SVG of the 5 ratings.
 
