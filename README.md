@@ -1,4 +1,3 @@
-# FWSFs
 <h1 align="center">
 F.W.S.F.R.S
 </h1>
