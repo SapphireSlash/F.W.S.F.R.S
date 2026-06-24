@@ -1,6 +1,6 @@
-<h align="center">
+<h1 align="center">
 F.W.S.F.R.S
-</h>
+</h1>
 
 A repository for the Font Website Stolen Fonts Rating System.
 
