@@ -11,9 +11,9 @@ The goal of this system making it easier which websites should you use.
 
 [F.W.S.F.R.S Website Page](https://sapphireslash.nekoweb.org/fwsfrs)
 
-<h2 align="center">
+<h1 align="center">
 To contribute
-</h2>
+</h1>
 
 Before contributing, you have to read the [contributing rules](https://github.com/SapphireSlash/F.W.S.F.R.S/blob/main/CONTRIBUTING.md).
 
@@ -26,7 +26,9 @@ If you want to contribute, you can do so on the issues page.
 
 [Canva Project (For Charts)](https://canva.link/knyx8datj3cvjun)
 
-## Ratings
+<h1 align="center">
+Ratings
+</h1>
 
 There are 5 ratings. These are:
 
