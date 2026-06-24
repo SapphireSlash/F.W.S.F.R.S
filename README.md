@@ -32,8 +32,11 @@ There are 5 ratings. These are:
 * H - High
 * X - Extreme
 <p align="center">
-<img src="https://github.com/SapphireSlash/F.W.S.F.R.S/blob/main/Rating%20SVGs/F.W.S.F.R.S%20Ratings.svg" alt="Here's a SVG of the 5 ratings." width="50%"/>
+<img src="https://github.com/SapphireSlash/F.W.S.F.R.S/blob/main/Rating%20SVGs/F.W.S.F.R.S%20Ratings.svg" width="50%"/>
 
+<p align="center">
+Here's a SVG of the 5 ratings.
+</p>
 ## Why does this exist?
 
 To that I say, that's a bit of a long story, but I'll show why. Basically, I've always seen those websites that host pirated paid fonts like Helvetica, Futura, Gill Sans etc. (you get the gist) and I'm sure you have heard and/or seen websites like Cufon Fonts, Fontsgeek, Free Font Download etc. that host paid fonts for free. And I have admit, I have **downloaded** fonts from them although to be fair I didn't know any better, so I ended up making this project so you don't do the same mistake as me.
