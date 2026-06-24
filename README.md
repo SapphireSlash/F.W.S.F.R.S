@@ -11,7 +11,9 @@ The goal of this system making it easier which websites should you use.
 
 [F.W.S.F.R.S Website Page](https://sapphireslash.nekoweb.org/fwsfrs)
 
-## To contribute
+<h1 align="center">
+To contribute
+</h1>
 
 Before contributing, you have to read the [contributing rules](https://github.com/SapphireSlash/F.W.S.F.R.S/blob/main/CONTRIBUTING.md).
 
