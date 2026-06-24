@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2026, SapphireSlash
+Copyright (c) 2026, The F.W.S.F.R.S Authors (https://github.com/SapphireSlash/F.W.S.F.R.S/blob/experimental/AUTHORS.md)
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
