@@ -54,6 +54,7 @@ If you are gonna contribute, look out for these names/brands.
 * Gill Sans MT
 * Gill Sans Nova
 * __Gotham__
+* __Goudy__
 * __Helvetica__
 * Helvetica LT
 * Helvetica Neue
