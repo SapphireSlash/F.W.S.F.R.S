@@ -1,3 +1,5 @@
+failed project
+
 # F.W.S.F.R.S
 
 A repository for the Font Website Stolen Fonts Rating System.
